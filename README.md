@@ -7,4 +7,4 @@ Tech used :
 - CSS3 
 - HTML5 
 
-LIVE DEMO 👉 [Mizuxe](https://mizuxe-theme.netlify.app/)
+LIVE DEMO 👉 [Mizuxe](https://projects-mizuxe-theme.netlify.app/)
